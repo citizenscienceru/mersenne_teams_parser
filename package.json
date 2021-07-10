@@ -1,0 +1,21 @@
+{
+  "name": "parser_mersenne",
+  "version": "1.0.0",
+  "description": "Парсит сайт mersenne.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/7lf/parser_mersenne.git"
+  },
+  "author": "ROM",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/7lf/parser_mersenne#readme",
+  "dependencies": {
+    "alasql": "^1.7.3",
+    "cheerio": "^1.0.0-rc.10",
+    "yaml": "^1.10.2"
+  }
+}
